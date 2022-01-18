@@ -9,6 +9,7 @@ title:: Knowledge Management - How to Stay Relevant
 		- tapi harus faktorkan fokus audiens malah melenceng; malah ngoprek Logseq
 	- di akhir presentasi berikan akses ke repository yang di dalamnya terdapat catatan ini, dan slide notes, yang langsung bisa di-clone oleh audiens
 		- mungkin sekalian demo
+	- https://github.com/aldoreno/knowledge-management/blob/main/pages/Knowledge%20Management%20-%20How%20to%20Stay%20Relevant.md
 - **SLIDE NOTES**
 	- **Chapter #1** **End Goal: Knowledge Worker**
 		- kita mulai dari kondisi akhir yang diharapkan: menjadi Knowledge Worker atau ^^pekerja berpengetahuan yang adaptif terhadap perubahan^^
@@ -59,6 +60,7 @@ title:: Knowledge Management - How to Stay Relevant
 				- And you resist change.
 			- bridge: nah, tadi sudah kita tetap relevan makanya butuh Knowledge Management
 	- **Chapter #2** **Knowledge Management**
+	  collapsed:: true
 		- kita mulai dari memahami apa itu pengetahuan
 		- **WHAT**: **Knowledge**
 			- knowledge atau pengetahuan adalah fakta, informasi, atau kemampuan, yang kita peroleh baik dari proses eduksi (ajar-mengajar) maupun melakukan sesuatu secara langsung
@@ -150,6 +152,7 @@ title:: Knowledge Management - How to Stay Relevant
 		- BRIDGE: setelah kita ketahui dua jenis aset (atau pengetahuan) tadi, sekarang kita pelajari gimana caranya supaya pengetahuan tersebut compounding. reminder:
 			- ^^compounding is the ability of an asset to generate earnings, which are then reinvested in order to generate their own earnings.^^
 	- **Chapter #3 Knowledge Management Cycle**
+	  collapsed:: true
 		- bertujuan agar pengetahuan kita bertumpuk juga memastikan pengetahuan tersimpan di long-term memory (penyimpanan jangka panjang)
 		- Knowledge Management Cycle diagram
 		  collapsed:: true
@@ -205,6 +208,7 @@ title:: Knowledge Management - How to Stay Relevant
 				- well, sebenarnya ga ada yang sia-sia karena pengetahuan tersebut sudah sempat tercatat di otak hanya saja mudah terlupakan (low retention) kecuali Anda punya daya ingat fotografis
 		- OPINI: ^^untuk orang dengan daya pikir (cognitive skills) yang sangat bagus, kodifikasi dan diseminasi ini seperti tidak diperlukan atau hanya sekadarnya, karena mereka dapat mengandalkan daya pikirnya saja^^
 	- **Chapter #4 Mental Model**
+	  collapsed:: true
 		- BRIDGE: sebelum pindah slide, tanya siapa yang bisa menjelaskan cara kerja layar sentuh sebelum pindah slide
 		- KLARIFIKASI: ini tidak diajarkan di kelas Knowledge Management
 		- KLARIFIKASI: ini adalah justifikasi saya sendiri 🤣; semua yang saya bagikan kali ini adalah perkiraan yang saya buat soal Knowledge dan Knowledge Management
@@ -245,6 +249,7 @@ title:: Knowledge Management - How to Stay Relevant
 			- Diagram + KM Cycle = pemahaman semakin akurat dan tetap relevan
 			- TODO: update diagram
 	- **Chapter #5 Knowledge Management Model: SECI**
+	  collapsed:: true
 		- **Ikujiro Nonaka** (this guys is literally god-like) and Hirotaka Takeuchi; especially the former
 		- Scrum framework was originated by the same people who coined the SECI Knowledge Management model. Source: [Wikipedia](https://en.wikipedia.org/wiki/Ikujiro_Nonaka#Work)
 			- [[The New New Product Development Game by Hirotaka Takeuchi and Ikujiro Nonaka published in the Harvard Business Review in 1986]]
@@ -254,6 +259,7 @@ title:: Knowledge Management - How to Stay Relevant
 		  CLOCK: [2022-01-14 Fri 19:08:13]--[2022-01-14 Fri 19:08:47] => 00:00:34
 		  :END:
 	- **Summary**
+	  collapsed:: true
 		- hipotesa: ^^kita melakukan beberapa hal sepertinya karena keterbatasan tooling atau keterbatasan resource di masa lampau -- di luar keterbatasan pengetahuan dan pemahaman^^
 			- misalnya: buku, git workflow
 		- di masa ini kita dapat belajar dari multimedia dengan cara relatif murah dan distribusi yang super cepat
@@ -268,6 +274,7 @@ title:: Knowledge Management - How to Stay Relevant
 			- agar mampu membuat mental model yang akurat
 		- supaya (pindah slide): tetap relevan
 	- **Chapter X: Where to go from here?**
+	  collapsed:: true
 		- [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn) ⭐⭐⭐⭐⭐
 		- [Building a Second Brain](https://maggieappleton.com/basb) (sengaja ga ke project official-nya karena jualan banget)
 			- or simply start using RoamResearch / Logseq / Trello / Notion / etc
@@ -280,3 +287,4 @@ title:: Knowledge Management - How to Stay Relevant
 			- dan memang suka banget debugging dibanding programming
 		- [ThoughtWorks's Technology Radar](https://www.thoughtworks.com/radar)
 		- [[Edmond Lau]]'s [Effective Engineer](https://www.effectiveengineer.com/)
+	-
