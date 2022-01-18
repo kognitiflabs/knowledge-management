@@ -152,7 +152,6 @@ title:: Knowledge Management - How to Stay Relevant
 		- BRIDGE: setelah kita ketahui dua jenis aset (atau pengetahuan) tadi, sekarang kita pelajari gimana caranya supaya pengetahuan tersebut compounding. reminder:
 			- ^^compounding is the ability of an asset to generate earnings, which are then reinvested in order to generate their own earnings.^^
 	- **Chapter #3 Knowledge Management Cycle**
-	  collapsed:: true
 		- bertujuan agar pengetahuan kita bertumpuk juga memastikan pengetahuan tersimpan di long-term memory (penyimpanan jangka panjang)
 		- Knowledge Management Cycle diagram
 		  collapsed:: true
