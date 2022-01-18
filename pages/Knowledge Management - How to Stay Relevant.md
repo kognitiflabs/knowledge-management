@@ -10,6 +10,7 @@ title:: Knowledge Management - How to Stay Relevant
 	- di akhir presentasi berikan akses ke repository yang di dalamnya terdapat catatan ini, dan slide notes, yang langsung bisa di-clone oleh audiens
 		- mungkin sekalian demo
 	- https://github.com/aldoreno/knowledge-management/blob/main/pages/Knowledge%20Management%20-%20How%20to%20Stay%20Relevant.md
+	- [Feedback Form](https://forms.gle/Bqi4DbQgoUz1QYJQ6)
 - **SLIDE NOTES**
 	- **Chapter #1** **End Goal: Knowledge Worker**
 		- kita mulai dari kondisi akhir yang diharapkan: menjadi Knowledge Worker atau ^^pekerja berpengetahuan yang adaptif terhadap perubahan^^
