@@ -207,7 +207,6 @@ title:: Knowledge Management - How to Stay Relevant
 				- well, sebenarnya ga ada yang sia-sia karena pengetahuan tersebut sudah sempat tercatat di otak hanya saja mudah terlupakan (low retention) kecuali Anda punya daya ingat fotografis
 		- OPINI: ^^untuk orang dengan daya pikir (cognitive skills) yang sangat bagus, kodifikasi dan diseminasi ini seperti tidak diperlukan atau hanya sekadarnya, karena mereka dapat mengandalkan daya pikirnya saja^^
 	- **Chapter #4 Mental Model**
-	  collapsed:: true
 		- BRIDGE: sebelum pindah slide, tanya siapa yang bisa menjelaskan cara kerja layar sentuh sebelum pindah slide
 		- KLARIFIKASI: ini tidak diajarkan di kelas Knowledge Management
 		- KLARIFIKASI: ini adalah justifikasi saya sendiri 🤣; semua yang saya bagikan kali ini adalah perkiraan yang saya buat soal Knowledge dan Knowledge Management
