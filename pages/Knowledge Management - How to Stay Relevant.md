@@ -61,10 +61,9 @@ title:: Knowledge Management - How to Stay Relevant
 				- And you resist change.
 			- bridge: nah, tadi sudah kita tetap relevan makanya butuh Knowledge Management
 	- **Chapter #2** **Knowledge Management**
-	  collapsed:: true
 		- kita mulai dari memahami apa itu pengetahuan
 		- **WHAT**: **Knowledge**
-			- knowledge atau pengetahuan adalah fakta, informasi, atau kemampuan, yang kita peroleh baik dari proses eduksi (ajar-mengajar) maupun melakukan sesuatu secara langsung
+			- knowledge atau pengetahuan adalah fakta, informasi, atau kemampuan, yang kita peroleh baik dari proses edukasi (ajar-mengajar) maupun melakukan sesuatu secara langsung
 			- biasanya di kelas Knowledge Management dijelaskan juga apa itu data, informasi, knowledge (pengetahuan), dan wisdom (kebijaksanaan)
 				- data adalah fakta, misalnya: 185
 				- informasi adalah data disertai metadata (penjelasan), misalnya: tinggi dalam centimeter
