@@ -62,9 +62,9 @@ title:: Knowledge Management - How to Stay Relevant
 				- And you resist change.
 			- bridge: nah, tadi sudah kita tetap relevan makanya butuh Knowledge Management
 	- **Chapter #2** **Knowledge Management**
-	  collapsed:: true
 		- kita mulai dari memahami apa itu pengetahuan
 		- **WHAT**: **Knowledge**
+		  collapsed:: true
 			- knowledge atau pengetahuan adalah fakta, informasi, atau kemampuan, yang kita peroleh baik dari proses edukasi (ajar-mengajar) maupun melakukan sesuatu secara langsung
 			- biasanya di kelas Knowledge Management dijelaskan juga apa itu data, informasi, knowledge (pengetahuan), dan wisdom (kebijaksanaan)
 				- data adalah fakta, misalnya: 185
@@ -82,6 +82,7 @@ title:: Knowledge Management - How to Stay Relevant
 					- teaches the reasoning, techniques and theory of knowledge
 		- BRIDGE: lalu kenapa pengetahuan harus dikelola?
 		- **WHY**: ^^because knowledge, like financial asset, could builds up like compound interest^^
+		  collapsed:: true
 			- revisi slide:
 				- ^^Knowledge, like financial asset, could builds up like compound interest^^
 			- karena pengetahuan mirip dengan aset finansial: dapat bertumpuk seperti compound interest
@@ -114,6 +115,7 @@ title:: Knowledge Management - How to Stay Relevant
 				- solusinya menggunakan Knowledge Management Tools
 			- BRIDGE: tacit knowledge ini lah origin dari istilah: (pindah slide)
 		- **(Tacit) Knowledge is power. See politics in the workplace**
+		  collapsed:: true
 			- kalau pengetahuan adalah aset, maka akumulasi aset menjadi power
 			- dan power condong ke arah berpolitik, contohnya lihat saja di lingkungan kantor
 				- umumnya menjadi tidak bisa atau sulit digantikan meski sudah semena-mena
@@ -121,6 +123,7 @@ title:: Knowledge Management - How to Stay Relevant
 				- ini sudah masuk ke ranah organisasi sebenernya, tapi informasi tambahan saja
 		- BRIDGE: karena politik di kantor tersebut lah salah satu alasannya kenapa butuh Explicit Knowledge
 		- **Explicit Knowledge**
+		  collapsed:: true
 			- alias Codified Knowledge, Materialized Knowledge
 			- **WHAT**
 				- pengetahuan yang sudah melalui proses kodifikasi sehingga dapat diakses oleh orang lain; it can be written down, transmitted, and understood by a recipient.
@@ -210,6 +213,7 @@ title:: Knowledge Management - How to Stay Relevant
 				- well, sebenarnya ga ada yang sia-sia karena pengetahuan tersebut sudah sempat tercatat di otak hanya saja mudah terlupakan (low retention) kecuali Anda punya daya ingat fotografis
 		- OPINI: ^^untuk orang dengan daya pikir (cognitive skills) yang sangat bagus, kodifikasi dan diseminasi ini seperti tidak diperlukan atau hanya sekadarnya, karena mereka dapat mengandalkan daya pikirnya saja^^
 	- **Chapter #4 Mental Model**
+	  collapsed:: true
 		- BRIDGE: sebelum pindah slide, tanya siapa yang bisa menjelaskan cara kerja layar sentuh sebelum pindah slide
 		- KLARIFIKASI: ini tidak diajarkan di kelas Knowledge Management
 		- KLARIFIKASI: ini adalah justifikasi saya sendiri 🤣; semua yang saya bagikan kali ini adalah perkiraan yang saya buat soal Knowledge dan Knowledge Management
