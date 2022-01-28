@@ -14,6 +14,7 @@ title:: Knowledge Management - How to Stay Relevant
 	- [Feedback Form](https://forms.gle/Bqi4DbQgoUz1QYJQ6)
 - **SLIDE NOTES**
 	- **Chapter #1** **End Goal: Knowledge Worker**
+	  collapsed:: true
 		- kita mulai dari kondisi akhir yang diharapkan: menjadi Knowledge Worker atau ^^pekerja berpengetahuan yang adaptif terhadap perubahan^^
 		- **WHAT**: Knowledge worker itu umumnya memiliki 4 karakter berikut
 			- perpetual learner atau ^^individu yang terus belajar^^
@@ -43,7 +44,6 @@ title:: Knowledge Management - How to Stay Relevant
 			- let me explain, mari kita lihat diagram
 		- Diagram lifecycle of a worker
 			- diagram
-			  collapsed:: true
 				- ![image.png](../assets/image_1641575012929_0.png)
 			- Level 0 is where majority of us all started
 				- Then, we barely know *how* to do stuff
