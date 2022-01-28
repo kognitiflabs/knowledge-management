@@ -62,6 +62,7 @@ title:: Knowledge Management - How to Stay Relevant
 				- And you resist change.
 			- bridge: nah, tadi sudah kita tetap relevan makanya butuh Knowledge Management
 	- **Chapter #2** **Knowledge Management**
+	  collapsed:: true
 		- kita mulai dari memahami apa itu pengetahuan
 		- **WHAT**: **Knowledge**
 			- knowledge atau pengetahuan adalah fakta, informasi, atau kemampuan, yang kita peroleh baik dari proses edukasi (ajar-mengajar) maupun melakukan sesuatu secara langsung
@@ -153,6 +154,7 @@ title:: Knowledge Management - How to Stay Relevant
 		- BRIDGE: setelah kita ketahui dua jenis aset (atau pengetahuan) tadi, sekarang kita pelajari gimana caranya supaya pengetahuan tersebut compounding. reminder:
 			- ^^compounding is the ability of an asset to generate earnings, which are then reinvested in order to generate their own earnings.^^
 	- **Chapter #3 Knowledge Management Cycle**
+	  collapsed:: true
 		- bertujuan agar pengetahuan kita bertumpuk juga memastikan pengetahuan tersimpan di long-term memory (penyimpanan jangka panjang)
 		- Knowledge Management Cycle diagram
 		  collapsed:: true
