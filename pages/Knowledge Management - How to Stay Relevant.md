@@ -237,7 +237,7 @@ title:: Knowledge Management - How to Stay Relevant
 		- **END GOAL**:
 			- kita tahu bahwa sistem terdiri dari `input -> proses -> output`
 			- dengan mental model kita bisa membuat perkiraan bagaimana sebuah sistem bekerja, nah kita bisa evaluasi model (perkiraan) yang kita buat di pikiran ini misalnya dengan: ^^memperkirakan output, berdasarkan input, tanpa menjalankan proses^^
-			- **CONTOH**:
+			- **CONTOH** TODO evaluasi bagian ini:
 				- togel
 				- operasi database & operasi Git
 				- debugging
