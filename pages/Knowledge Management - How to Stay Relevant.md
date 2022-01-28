@@ -214,6 +214,7 @@ title:: Knowledge Management - How to Stay Relevant
 		- KLARIFIKASI: ini tidak diajarkan di kelas Knowledge Management
 		- KLARIFIKASI: ini adalah justifikasi saya sendiri 🤣; semua yang saya bagikan kali ini adalah perkiraan yang saya buat soal Knowledge dan Knowledge Management
 		- **WHAT**
+		  collapsed:: true
 			- mental model adalah perkiraan yang kita buat di dalam pikiran mengenai sebuah subyek; misalnya cara kerjanya
 				- perkiraan yang kita buat berdasarkan seberapa akurat pemahaman kita akan subyek tersebut
 					- di mana akurasi pemahaman tergantung banyak pengetahuan kita terhadap subyek tersebut (dan subyek lain di sekitarnya)
@@ -221,9 +222,11 @@ title:: Knowledge Management - How to Stay Relevant
 							- ingat: tahu != paham
 						- TODO bikin segitiga pengetahuan x pemahaman x perkiraan
 		- **HOW** bagaimana cara meningkatkan akurasi pemahaman?
+		  collapsed:: true
 			- lakukan sebanyak mungkin Knowledge Management Cycle (baca: belajar)
 			- semakin banyak Knowledge Management Cycle yang kamu jalani terhadap sebuah subyek maka semakin akurat pemahaman yang kamu miliki tentang sebuah sistem
 		- **WHY**
+		  collapsed:: true
 			- pengetahuan yang banyak akan menghasilkan pemahaman yg semakin akurat
 			- hipotesa: ^^sebuah perkiraan yang kita buat mengenai subyek A dapat membantu kita memahami subyek B^^
 				- dari pengalaman mengajar fundamental Git ke programmers
@@ -234,7 +237,12 @@ title:: Knowledge Management - How to Stay Relevant
 		- **END GOAL**:
 			- kita tahu bahwa sistem terdiri dari `input -> proses -> output`
 			- dengan mental model kita bisa membuat perkiraan bagaimana sebuah sistem bekerja, nah kita bisa evaluasi model (perkiraan) yang kita buat di pikiran ini misalnya dengan: ^^memperkirakan output, berdasarkan input, tanpa menjalankan proses^^
-				- contoh: operasi database, operasi Git, debugging, minta izin main ke pacar yg lagi bad mood, etc
+			- **CONTOH**:
+				- togel
+				- operasi database & operasi Git
+				- debugging
+				- minta izin main ke pacar yg lagi bad mood
+				- etc
 			- pada kasus lain, kita dapat ^^memperkirakan proses berdasarkan input dan output yang diketahui^^. misalnya: menjelaskan judi togel, orang-orang awam yang tidak memiliki pengetahuan Statistika dan Excel (atau alat olah data lainnya) tidak akan bisa memperkirakan proses judi togel ini
 			- OPINI: aku sendiri jadinya sering membuat perkiraan (mental model) soal kenapa begini dan kenapa begitu pada realita kita sehari-hari; jadi ^^semacam alat bantu juga untuk ngebedah bullshit^^
 				- belum tentu benar karena dibatasi pemahaman dan pengetahuan
