@@ -94,6 +94,7 @@ title:: Knowledge Management - How to Stay Relevant
 				- https://medium.com/personal-growth/compound-learning-the-most-powerful-tool-for-acquiring-skills-faster-123e14f9f9d9
 		- BRIDGE: nah karena pengetahuan mirip financial asset, kita bahas dulu dua tipe aset --eh, pengetahuan-- yang penting untuk kita ketahui
 		- **Tacit Knowledge**
+			- TODO cari atau buat gambar otak untuk merepresentasikan bahwa pengetahuan ini berada _di dalam_ kepala/otak masing-masing
 			- pengetahuan yang ada di dalam kepala
 			- sangat bernilai karena bahan utama keunggulan kompetitif (competitive advantage) seorang individu
 			- namun sulit untuk dikodifikasi (apa itu kodifikasi akan dijelaskan setelah ini), meski bisa dilatih
