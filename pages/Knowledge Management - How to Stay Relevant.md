@@ -259,8 +259,8 @@ title:: Knowledge Management - How to Stay Relevant
 			- mental model yang menjelaskan sistem yg disebut PhD: https://matt.might.net/articles/phd-school-in-pictures/
 		- reading materials:
 			- [Mental representation](https://en.wikipedia.org/wiki/Mental_representation)
-			- Principles of Mathematical Modelling (feedback dari teman kerja ([[Dany]]))
-				-
+			- Principles of Mathematical Modelling (feedback dari rekan kerja [[Dany]])
+				- ![image.png](../assets/image_1643352065932_0.png)
 		- Sekarang kita kembali ke usaha kita untuk tetap relevan:
 			- Diagram + KM Cycle = pemahaman semakin akurat dan tetap relevan
 			- TODO update diagram
