@@ -4,6 +4,7 @@ title:: Knowledge Management - How to Stay Relevant
 - **WHO** Leonardo Situmorang leonardo.situmorang@gmail.com
 - **WHEN** Google Meet, January 2022
 - **FLOW**
+  collapsed:: true
 	- di awal ingatkan agar tidak perlu membuat catatan. yang paling penting adalah mendengarkan dan bertanya jika perlu
 	- di awal kasih lihat graph di Logseq yang menampilkan keterkaitan antara satu informasi dengan lainnya, *mungkin* bisa memantik rasa penasaran dan ingin tahu audiens
 		- tapi harus faktorkan fokus audiens malah melenceng; malah ngoprek Logseq
