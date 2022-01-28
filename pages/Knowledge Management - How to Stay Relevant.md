@@ -248,7 +248,7 @@ title:: Knowledge Management - How to Stay Relevant
 				- debugging
 				- minta izin main ke pacar yg lagi bad mood
 				- etc
-			- pada kasus lain, kita dapat ^^memperkirakan proses berdasarkan input dan output yang diketahui^^. misalnya: menjelaskan judi togel, orang-orang awam yang tidak memiliki pengetahuan Statistika dan Excel (atau alat olah data lainnya) tidak akan bisa (atau relatif lebih sulit) memperkirakan proses judi togel ini
+			- pada kasus lain, kita dapat ^^memperkirakan proses berdasarkan input dan output yang diketahui^^. misalnya: menjelaskan judi togel, orang-orang awam yang tidak memiliki pengetahuan Statistika dan Excel (atau alat olah data lainnya) tidak akan bisa (atau relatif lebih sulit) memperkirakan car a kerja judi togel ini
 			- OPINI: aku sendiri jadinya sering membuat perkiraan (mental model) soal kenapa begini dan kenapa begitu pada realita kita sehari-hari; jadi ^^semacam alat bantu juga untuk ngebedah bullshit^^
 				- belum tentu benar karena dibatasi pemahaman dan pengetahuan
 				- makanya tetap perlu evaluasi mental model
