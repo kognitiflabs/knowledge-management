@@ -1,0 +1,3 @@
+- Author: [[Paul Lumbantobing]]
+- https://onknowledge.files.wordpress.com/2019/10/manajemen-knowledge-sharing-berbasis-komunitas-dr.ir_.-paul-lumbantobing-m.eng-freedownload.pdf
+- https://drive.google.com/file/d/1d8RG8Cjbgr1i15bqdmS65YSLA6BamvLm/view?usp=sharing
