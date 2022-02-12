@@ -3,6 +3,8 @@
 - **WHEN** Google Meet, January 2022
 - **README**
 	- [presentation notes](https://github.com/aldoreno/knowledge-management) (yang sedang Anda baca ini) tersedia di Github
+		- [mind map @ Excalidraw](https://excalidraw.com/#json=VQFVnDOPOW9ln8yokwT_J,QhWH4FRZotpHacvWMwUQ_w)
+		- [mind map @ Miro](https://miro.com/app/board/uXjVONu_M78=/?invite_link_id=627643512975)
 	- maka tidak perlu membuat catatan
 	- yang paling penting adalah mendengarkan dan bertanya
 		- tidak ada pertanyaan yang bodoh
