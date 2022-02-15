@@ -28,6 +28,9 @@
  {:block/name "doing",
   :block/created-at 1644589864014,
   :block/updated-at 1644589864014}
+ {:block/name "donald rumsfeld",
+  :block/created-at 1644642925692,
+  :block/updated-at 1644642925692}
  {:block/name "done",
   :block/created-at 1644589864015,
   :block/updated-at 1644589864015}
@@ -40,30 +43,21 @@
  {:block/name "feb 12th, 2022",
   :block/created-at 1644624000000,
   :block/updated-at 1644624000000}
- {:block/name "feb 4th, 2022",
-  :block/created-at 1643932800000,
-  :block/updated-at 1643932800000}
  {:block/name "in-progress",
   :block/created-at 1644589864015,
   :block/updated-at 1644589864015}
- {:block/name "jan 18th, 2022",
-  :block/created-at 1642464000000,
-  :block/updated-at 1642464000000}
- {:block/name "jan 28th, 2022",
-  :block/created-at 1643328000000,
-  :block/updated-at 1643328000000}
  {:block/name "ki hajar dewantara",
   :block/created-at 1644640456488,
   :block/updated-at 1644640456488}
  {:block/name "knowledge management how to stay relevant",
   :block/created-at 1644640456488,
-  :block/updated-at 1644640456488}
+  :block/updated-at 1644642877735}
  {:block/name "later",
   :block/created-at 1644589864014,
   :block/updated-at 1644589864014}
  {:block/name "manajemen knowledge sharing berbasis komunitas",
   :block/created-at 1644640456488,
-  :block/updated-at 1644640456488}
+  :block/updated-at 1644640844920}
  {:block/name "now",
   :block/created-at 1644589864015,
   :block/updated-at 1644589864015}
@@ -86,9 +80,6 @@
  {:block/name "todo",
   :block/created-at 1644589864015,
   :block/updated-at 1644589864015}
- {:block/name "untitled",
-  :block/created-at 1644589864014,
-  :block/updated-at 1644589864014}
  {:block/name "wait",
   :block/created-at 1644589864015,
   :block/updated-at 1644589864015}

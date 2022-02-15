@@ -2,7 +2,6 @@
 - **WHO** Leonardo Situmorang leonardo.situmorang@gmail.com @kognitiflabs
 - **WHEN** Google Meet, January 2022
 - **README**
-  collapsed:: true
 	- [presentation notes](https://github.com/aldoreno/knowledge-management) (yang sedang Anda baca ini) tersedia di Github
 		- [mind map @ Excalidraw](https://excalidraw.com/#json=VQFVnDOPOW9ln8yokwT_J,QhWH4FRZotpHacvWMwUQ_w)
 		- [mind map @ Miro](https://miro.com/app/board/uXjVONu_M78=/?invite_link_id=627643512975)
@@ -15,7 +14,6 @@
 		- di awal kasih lihat knowledge graph Logseq yang _mungkin_ bisa memantik rasa penasaran audiens
 		- namun faktorkan fokus audiens malah melenceng _ngoprek_ Logseq
 - **Chapter #1** **End Goal: Knowledge Worker**
-  collapsed:: true
 	- kita mulai dari kondisi akhir yang diharapkan: menjadi Knowledge Worker atau pekerja berpengetahuan yang adaptif terhadap perubahan
 	- **WHAT**: Knowledge worker itu umumnya memiliki 4 karakter berikut
 		- **perpetual learner** atau individu yang terus belajar
@@ -66,7 +64,6 @@
 			- You are about to extinct
 	- BRIDGE: sekarang kita sudah tahu kenapa kita harus tetap relevan. caranya supaya tetap relevan adalah memahami Knowledge Management
 - **Chapter #2** **Knowledge Management**
-  collapsed:: true
 	- Knowledge Management berasal dari kebutuhan organisasi
 	- Personal Knowledge Management berasal dari kebutuhan individu
 	- Knowledge Management mencakup banyak hal. Kita mulai dari memahami apa itu pengetahuan
@@ -148,7 +145,7 @@
 			- https://medium.com/personal-growth/compound-learning-the-most-powerful-tool-for-acquiring-skills-faster-123e14f9f9d9
 	- BRIDGE: nah karena pengetahuan mirip financial asset, kita bahas dulu dua tipe aset --eh, pengetahuan-- yang penting untuk kita ketahui
 	- **Tacit Knowledge**
-		- DONE cari atau buat gambar otak untuk merepresentasikan bahwa pengetahuan ini berada _di dalam_ kepala/otak masing-masing
+		- TODO cari atau buat gambar otak untuk merepresentasikan bahwa pengetahuan ini berada _di dalam_ kepala/otak masing-masing
 		- pengetahuan yang ada di dalam kepala
 		- sangat bernilai karena bahan utama keunggulan kompetitif (competitive advantage) seorang individu
 		- namun sulit untuk dikodifikasi (apa itu kodifikasi akan dijelaskan setelah ini), meski bisa dilatih
@@ -215,7 +212,6 @@
 			- Explicit Knowledge juga mandatory untuk membangun [Low Context Cultures](https://www.culture-at-work.com/highlow.html)
 	- BRIDGE: setelah kita ketahui dua jenis aset (atau pengetahuan) tadi, sekarang kita pelajari gimana caranya supaya pengetahuan tersebut compounding
 - **Chapter #3 Knowledge Management Cycle**
-  collapsed:: true
 	- bertujuan agar pengetahuan kita bertumpuk juga memastikan pengetahuan tersimpan di long-term memory (penyimpanan jangka panjang)
 	- Knowledge Management Cycle diagram
 		- ![image.png](../assets/image_1642502265149_0.png)
@@ -270,7 +266,6 @@
 			- well, sebenarnya ga ada yang sia-sia karena pengetahuan tersebut sudah sempat tercatat di otak hanya saja mudah terlupakan (low retention) kecuali Anda punya daya ingat fotografis
 	- OPINI: ^^untuk orang dengan daya pikir (cognitive skills) yang sangat bagus, kodifikasi dan diseminasi ini seperti tidak diperlukan atau hanya sekadarnya, karena mereka dapat mengandalkan daya pikirnya saja^^
 - **Chapter #4 Mental Model**
-  collapsed:: true
 	- BRIDGE: sebelum pindah slide, tanya siapa yang bisa menjelaskan cara kerja layar sentuh sebelum pindah slide
 	- KLARIFIKASI: ini tidak diajarkan di kelas Knowledge Management
 	- KLARIFIKASI: ini adalah justifikasi saya sendiri 🤣; semua yang saya bagikan kali ini adalah perkiraan yang saya buat soal Knowledge dan Knowledge Management
@@ -319,11 +314,10 @@
 	- reading materials:
 		- [Mental representation](https://en.wikipedia.org/wiki/Mental_representation)
 		- Principles of Mathematical Modelling (feedback dari rekan kerja [[Dany]])
-			- ![image.png](../assets/image_1643352065932_0.png){:height 539, :width 680}
+			- ![image.png](../assets/image_1643352065932_0.png)
 	- Sekarang kita revisit diagram tadi:
 		- Diagram + KM Cycle = pemahaman semakin akurat dan tetap relevan
 - **Chapter #5 Knowledge Management Model: SECI**
-  collapsed:: true
 	- **Ikujiro Nonaka** and Hirotaka Takeuchi, these guys are literally god-like, especially the former.
 	- Scrum framework was also originated by the same people who coined the SECI Knowledge Management model. Source: [Wikipedia](https://en.wikipedia.org/wiki/Ikujiro_Nonaka#Work)
 		- [[The New New Product Development Game by Hirotaka Takeuchi and Ikujiro Nonaka published in the Harvard Business Review in 1986]]
@@ -333,7 +327,6 @@
 	  CLOCK: [2022-01-14 Fri 19:08:13]--[2022-01-14 Fri 19:08:47] =>  00:00:34
 	  :END:
 - **Summary**
-  collapsed:: true
 	- hipotesa: ^^kita melakukan beberapa hal sepertinya karena keterbatasan tooling atau keterbatasan resource di masa lampau -- di luar keterbatasan pengetahuan dan pemahaman^^
 		- misalnya: buku, git workflow
 	- di masa ini kita dapat belajar dari multimedia dengan cara relatif murah dan distribusi yang super cepat
@@ -353,7 +346,6 @@
 	- CATATAN: ^^semua yang gw bicarakan di sini dibatasi pengetahuan dan pemahamanku yang sangat terbatas; jadi kali sangat diharapkan untuk eksplor dan belajar lebih jauh jika tertarik^^
 	- BRIDGE: supaya kita tetap relevan
 - **Chapter X: Where to go from here?**
-  collapsed:: true
 	- [Learning How To Learn](https://www.coursera.org/learn/learning-how-to-learn) ⭐⭐⭐⭐⭐
 	- [Building a Second Brain](https://maggieappleton.com/basb) (sengaja ga ke project official-nya karena jualan banget)
 		- or simply start using RoamResearch / Logseq / Trello / Notion / etc
@@ -373,12 +365,6 @@
 	- jika ada tuntutan untuk memahami sesuatu dengan sangat cepat dan berujung mental block itu wajar ga ya kak? (Gloria M.J.P) #card
 	- sebagai seorang programmer apalagi dengan sangat banyak teknologi yang ada saat ini,  knowledge apa yang harus dimiliki agar bisa terus belajar dan tidak terjebak di fase dinosaur tadi? (Dion M) #card
 	- berarti kalau bakat termasuk "unconsciuos/subconscious competence" ya kak? (Akbar L) #card
-	  card-last-interval:: -1
-	  card-repeats:: 1
-	  card-ease-factor:: 2.5
-	  card-next-schedule:: 2022-02-12T17:00:00.000Z
-	  card-last-reviewed:: 2022-02-12T09:03:19.093Z
-	  card-last-score:: 1
 	- orang yang "CPU"-nya bagus itu dilatih apa emang dari sananya mas? (Galang A) #card
 	- sebagai engineers bagaimana mengetahui pengetahuan apa saja yg harus kita prioritaskan? agar kedepannya bisa jadi fondasi? (Naufaldi S) #card
 	- kita kan:
@@ -388,8 +374,4 @@
 	    * sementara sumber Explicit Knowledge banyak banget (mis: buku, video, podcast, etc)
 	  
 	  bagaimana cara mengelola pengetahuan dari berbagai sumber dan bagaimana cara membuatnya terstruktur agar masuk akal dan dapat diakses dengan mudah di kemudian hari? (Galang A) #card
-	- apakah diseminasi ada best practice-nya? misalnya disampaikan ke siapa dan kapan? (Faiz Ghifari) #card
-		- sejujurnya tidak tahu _best practice_-nya
-		- siapa: yang biasanya kulakukan adalah menyaring calon peserta kelas (_audience_), tujuannya agar _knowledge gap_ tidak terlalu besar
-		- kapan: ini masalah relevansi materi yang kita bagikan, BelajarLagi misalnya fokus ke materi Digital Marketing yang tentu saja sangat relevan di masa tulisan ini dibuat
 	-
