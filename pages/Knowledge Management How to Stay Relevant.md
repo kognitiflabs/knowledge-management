@@ -2,7 +2,6 @@
 - **WHO** Leonardo Situmorang leonardo.situmorang@gmail.com @kognitiflabs
 - **WHEN** Google Meet, January 2022
 - **README**
-  collapsed:: true
 	- [presentation notes](https://github.com/aldoreno/knowledge-management) (yang sedang Anda baca ini) tersedia di Github
 		- [mind map @ Excalidraw](https://excalidraw.com/#json=VQFVnDOPOW9ln8yokwT_J,QhWH4FRZotpHacvWMwUQ_w)
 		- [mind map @ Miro](https://miro.com/app/board/uXjVONu_M78=/?invite_link_id=627643512975)
