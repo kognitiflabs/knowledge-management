@@ -1,0 +1,41 @@
+- setelah berapa tahun bekerja [[Theresia Tanzil]] _sampai_ ke titik Why dan Who tersebut?
+	- pertanyaan ini dapat menjadi kriteria untuk mencapai audience yang tepat sasaran
+	- dengan membuat kriteria audience yg tepat, kita bisa memberi contoh yang cukup dekat dengan mereka yang bisa menjadi batu loncatan menuju ide yang ingin kita sampaikan
+		- tujuannya menjembatani _knowledge gap_
+- perlukah dibuat "house rules"?
+	- mis: peserta kelas _harus_ mengisi feedback di akhir kelas
+- mungkin perlu visual indicator untuk segmentasi materi
+	- harapannya membantu peserta kelas tahu konteks sebuah topik dengan topik lain secara kontras
+	- bisa menggunakan color coding, header, etc
+	- bisa menggunakan C.R.A.P method
+		- Contrast
+		- Repetition
+		- Alignment
+		- Proximity
+	- Footer
+		- **Judul**
+		- **Sub-judul** mis: nama segmen e.g. Back to basics
+		- **Nomor halaman** bisa digunakan peserta untuk direferensikan di pertanyaan
+- Slide ke-3: hasil akhir yang diharapkan (end goals)
+	- Menjadi lebih reflektif dalam keseharian pekerjaan dan bisa "melihat" lebih luas dari lingkup teknis.
+		- didapatkan di section atau slide(s)
+			- 17: 5 Parts of every business
+			- 18: Value Pyramid
+	- Meningkatkan kemampuan prioritasi, negosiasi, dan manajemen ke user bisnis.
+		- didapatkan di section atau slide(s)
+	- Mengamati dan memahami dinamika di organisasi tempat bekerja.
+		- didapatkan di section atau slide(s)
+	- Meningkatkan visibilitas profesional.
+		- didapatkan di section atau slide(s)
+	- Memperluas peluang pekerjaan.
+		- didapatkan di section atau slide(s)
+	- Kolaborasi lintas fungsi yg lebih mulus.
+		- didapatkan di section atau slide(s)
+	- Lebih siap dalam merambah dunia wirausaha.
+		- didapatkan di section atau slide(s)
+	- Understand how companies actually makes money, what it sells, who is buying.
+		- didapatkan di section atau slide(s)
+			- 9-16: Hard truth about business s/d Back to basic: Definitions
+- Slide ke-9
+	- mungkin ide baik untuk memvisualisasikan hal berikut
+		- Your bosses have bosses, your customers have bosses, and at the end of the line somewhere is a person whose only interest is increasing revenue and reducing cost.
